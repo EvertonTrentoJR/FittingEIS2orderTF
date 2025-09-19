@@ -8,6 +8,8 @@ The measured data, consisting of magnitude and phase components, is then used as
 Optimization is performed using numerical minimization techniques to estimate the transfer function coefficients that best fit the spectral data. This approach aims to simplify the characterization of materials and systems by extracting a compact mathematical model from empirical impedance data. 
 Initial validations are conducted using synthetic datasets to assess the robustness, accuracy, and convergence of the proposed fitting method prior to application on experimental measurements.
 
+Block diagram of the system.
+
 <img width="256" height="382" alt="image" src="https://github.com/user-attachments/assets/327d36e7-ba06-4a7b-8d92-9bdc0bf369ef" />
 
 This is the final test for the Signals&System discipline of the CPGEI-UTFPR program. 
